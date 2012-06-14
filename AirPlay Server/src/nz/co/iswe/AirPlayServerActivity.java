@@ -14,6 +14,8 @@ public class AirPlayServerActivity extends Activity {
         setContentView(R.layout.main);
         
         airPlayServer = new AirPlayServer();
-        airPlayServer.start();
+        
+        Thread thread = new Thread(airPlayServer);
+        thread.start();
     }
 }
