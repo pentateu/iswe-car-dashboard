@@ -126,7 +126,7 @@ public class BluetoothTestActivity extends Activity {
 	}
 	
 	private void connectToDevice(BluetoothDevice device) {
-		BluetoothA2dp a2dp = device.get
+		//BluetoothA2dp a2dp = device.get
 	}
 
 	/** 
