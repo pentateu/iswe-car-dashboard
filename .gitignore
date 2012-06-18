@@ -18,3 +18,9 @@ AirPlay Server/bin/res/drawable-xhdpi/ic_launcher.png
 AirPlay Server/bin/classes/nz/co/iswe/AirPlayServerActivity.class
 
 AirPlay Server/bin/resources.ap_
+
+mDNSTest/bin/nz/co/iswe/mdns/AirPlayServer.class
+
+mDNSTest/bin/nz/co/iswe/mdns/RAOPServer.class
+
+mDNSTest/bin/nz/co/iswe/mdns/Test.class
