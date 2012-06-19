@@ -4,3 +4,7 @@ http://nto.github.com/AirPlay.html
 
 //Java implementation for audio streaming
 https://github.com/fgp/AirReceiver#readme
+
+
+//tutorial on Audio Streaming in Android
+blog.infidian.com

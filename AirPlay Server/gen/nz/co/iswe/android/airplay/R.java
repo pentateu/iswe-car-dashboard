@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package nz.co.iswe;
+package nz.co.iswe.android.airplay;
 
 public final class R {
     public static final class attr {
